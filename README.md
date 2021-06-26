@@ -8,13 +8,11 @@ This is my portfolio. [Portfolio](https://ritheshrao197.github.io/)
 💻  &nbsp; Programming skills: <br/>
 
 
-![AWS](https://img.shields.io/badge/-AWS-220052?style=flat&logoColor=fff&logo=amazon)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
+
+![UNITY](https://img.shields.io/badge/-Unity3D-ea2845?style=flat&logoColor=fff&logo=unity)&nbsp;
+![C#](https://img.shields.io/badge/-C#-ea2845?style=flat&logoColor=fff&logo=c#)&nbsp;
+![C](https://img.shields.io/badge/-C-ea2845?style=flat&logoColor=fff&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-ea2845?style=flat&logoColor=fff&logo=c++)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logoColor=fff&logo=MySQL)&nbsp;
